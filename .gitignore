@@ -1,0 +1,21 @@
+# project
+data/*
+!data/.gitkeep
+
+# general
+build/
+dist/
+*.egg-info/
+*.egg
+*.pyc
+*.py[cod]
+__pycache__/
+*.so
+*.log
+*~
+
+# editors
+.idea/
+*.iml
+.project
+.pydevproject
